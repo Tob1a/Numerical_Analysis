@@ -1,0 +1,413 @@
+PrimoEs
+if system_dependent('IsDebugMode')==1, dbquit; end
+interoDaBase10aBaseB
+{Unrecognized function or variable 'inputArg1'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 16)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',16,0)">line 16</a>)
+x = inputArg1;
+} 
+interoDaBase10aBaseB
+{Unrecognized function or variable 'inputArg1'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 16)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',16,0)">line 16</a>)
+x = inputArg1;
+} 
+interoDaBase10aBaseB
+x=300
+
+x =
+
+   300
+
+beta=2;
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Index exceeds the number of array elements. Index must not exceed 1.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 25)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',25,0)">line 25</a>)
+    x = x-convertito(h)
+} 
+interoDaBase10aBaseB
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 17)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',17,0)">line 17</a>)
+if(beta<=0)
+} 
+interoDaBase10aBaseB
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 17)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',17,0)">line 17</a>)
+if(beta<=0)
+} 
+clear
+x=300;
+beta=2;
+interoDaBase10aBaseB
+x=300;
+beta=2;
+if system_dependent('IsDebugMode')==1, dbcont; end
+{Index in position 2 exceeds array bounds. Index must not exceed 1.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 25)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',25,0)">line 25</a>)
+    x = x-convertito(1,h)
+} 
+interoDaBase10aBaseB
+x=300;
+beta=2;
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Unrecognized function or variable 'bello'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 22)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',22,0)">line 22</a>)
+bello;
+} 
+interoDaBase10aBaseB
+x=300;
+beta=2;
+if system_dependent('IsDebugMode')==1, dbcont; end
+{Unrecognized function or variable 'bello'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 22)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',22,0)">line 22</a>)
+bello(1,0);
+} 
+Es_Base
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('inputParser')" style="font-weight:bold">inputParser</a>
+No constructor 'inputParser' with matching signature found.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m', 3)" style="font-weight:bold">Es_Base</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m',3,0)">line 3</a>)
+valore = inputParser(prompt);
+} 
+Es_Base
+Inserisci un valore4
+Es_Base
+Inserisci un valore
+4
+Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',17,1)">17  </a>if(beta<=0)
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Unrecognized function or variable 'bello'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 22)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',22,0)">line 22</a>)
+bello(1,0);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m', 6)" style="font-weight:bold">Es_Base</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m',6,0)">line 6</a>)
+Convertito=interoDaBase10aBaseB(x,beta);
+} 
+interoDaBase10aBaseB
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 17)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',17,0)">line 17</a>)
+if(beta<=0)
+} 
+interoDaBase10aBaseB
+x=300;
+beta=2;
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('num2str')" style="font-weight:bold">num2str</a>
+Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 25)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',25,0)">line 25</a>)
+    num2str
+} 
+Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',17,1)">17  </a>if(beta<=0)
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('num2str')" style="font-weight:bold">num2str</a>
+Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 25)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',25,0)">line 25</a>)
+    num2str
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m', 6)" style="font-weight:bold">Es_Base</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m',6,0)">line 6</a>)
+Convertito=interoDaBase10aBaseB(x,beta);
+} 
+Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+{Index exceeds the number of array elements. Index must not exceed 1.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 25)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',25,0)">line 25</a>)
+    x = x-str2double(convertito(h));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m', 6)" style="font-weight:bold">Es_Base</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m',6,0)">line 6</a>)
+Convertito=interoDaBase10aBaseB(x,beta);
+} 
+interoDaBase10aBaseB
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 17)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',17,0)">line 17</a>)
+if(beta<=0)
+} 
+Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+{Index exceeds the number of array elements. Index must not exceed 1.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 26)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',26,0)">line 26</a>)
+    x = x - str2double (convertito(h));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m', 6)" style="font-weight:bold">Es_Base</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m',6,0)">line 6</a>)
+Convertito=interoDaBase10aBaseB(x,beta);
+} 
+Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+Ciao Ciao 0Ciao 0Ciao 1Ciao 1Ciao 0Ciao 1Ciao 0Ciao 0Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+Ciao
+00110100Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+Ciao
+0011010Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+Ciao
+001101001interoDaBase10aBaseB
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 17)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',17,0)">line 17</a>)
+if(beta<=0)
+} 
+interoDaBase10aBaseB
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interoDaBase10aBaseB', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m', 17)" style="font-weight:bold">interoDaBase10aBaseB</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/interoDaBase10aBaseB.m',17,0)">line 17</a>)
+if(beta<=0)
+} 
+Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+Ciao
+100101100Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+Ciao
+100101100Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+
+cifra =
+
+     0
+
+
+cifra =
+
+     0
+
+
+cifra =
+
+     1
+
+
+cifra =
+
+     1
+
+
+cifra =
+
+     0
+
+
+cifra =
+
+     1
+
+
+cifra =
+
+     0
+
+
+cifra =
+
+     0
+
+Ciao
+00101100Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+
+cifra =
+
+     0
+
+
+cifra =
+
+     0
+
+
+cifra =
+
+     1
+
+
+cifra =
+
+     1
+
+
+cifra =
+
+     0
+
+
+cifra =
+
+     1
+
+
+cifra =
+
+     0
+
+
+cifra =
+
+     0
+
+Ciao
+00101100Es_Base
+Inserisci un valore
+300
+Inserisci un valore per la base
+2
+
+cifra =
+
+     0
+
+
+cifra =
+
+     0
+
+
+cifra =
+
+     1
+
+
+cifra =
+
+     1
+
+
+cifra =
+
+     0
+
+
+cifra =
+
+     1
+
+
+cifra =
+
+     0
+
+
+cifra =
+
+     0
+
+Ciao
+00101100Es_Base
+Inserisci un valore
+clear
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('clear')" style="font-weight:bold">clear</a>
+Too many output arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m', 3)" style="font-weight:bold">Es_Base</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m',3,0)">line 3</a>)
+x = input(prompt);
+} 
+Inserisci un valore
+clear
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('clear')" style="font-weight:bold">clear</a>
+Too many output arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m', 3)" style="font-weight:bold">Es_Base</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m',3,0)">line 3</a>)
+x = input(prompt);
+} 
+Inserisci un valore
+clear all
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base')" style="font-weight:bold">Es_Base</a>
+Invalid expression. Check for missing multiplication operator, missing or unbalanced delimiters, or other syntax
+error. To construct matrices, use brackets instead of parentheses.
+} 
+Inserisci un valore
+clear
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('clear')" style="font-weight:bold">clear</a>
+Too many output arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base', '/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m', 3)" style="font-weight:bold">Es_Base</a> (<a href="matlab: opentoline('/Users/tobia/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_1/Es_Base.m',3,0)">line 3</a>)
+x = input(prompt);
+} 
+Inserisci un valore
+2
+Inserisci un valore per la base
+3
+Ciao
+2Es_Base
+Inserisci un valore
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Es_Base')" style="font-weight:bold">Es_Base</a>
+} 
