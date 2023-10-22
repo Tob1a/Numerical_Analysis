@@ -1,0 +1,60 @@
+%Matlab_00 Esercizi del prof_00
+%   Main file
+
+%passaggio base
+[v,w]=Creazione_Vet();
+
+fprintf('Vettore 1:\n');
+disp(v);
+fprintf('Vettore 2:\n');
+disp(w);
+
+%passaggio a
+a=SommaVettori(v,w);
+fprintf('a :');
+disp(a);
+
+%passaggio b
+b=MoltiplicazioneVettore(v);
+fprintf('b :');
+disp(b);
+
+%passaggio c
+c=MoltiplicazioneVettori(v,w);
+fprintf('c :');
+disp(c);
+
+%passaggio d
+d=DivisioneVettore(w);
+fprintf('d :');
+disp(d);
+
+%passaggio e
+e=DivisioneVettori(v,w);
+fprintf('e :');
+disp(e);
+
+%passaggio f
+f=ProdottoScalare(v,w);
+fprintf('f :');
+disp(f);
+
+%g
+g=2*v-6*w;
+disp(g);
+
+%h
+% Copia gli elementi di posto pari da d a g1
+g1(2:2:end) =d(2:2:end)';
+g1(1:2:end) =d(1:2:end)';
+disp(g1);
+
+%i
+h=[v,v,v,v,v];
+%fanno la stessa cosa
+h=repmat(v,1,5);
+disp(h);
+
+%j
+h([6:6:end]);
+disp(h);
