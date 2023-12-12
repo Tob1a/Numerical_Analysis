@@ -1,0 +1,59 @@
+fprimo = @(x)( -f(x))
+
+fprimo =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(-f(x))
+
+[xNs, itNewt] = newton(f, fprimo, 3.5, 1.0E-6, 1.0E-5, 200)
+{Unrecognized function or variable 'f'.
+} 
+f = @(x)(exp(-x+3)-2.7)
+
+f =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(exp(-x+3)-2.7)
+
+[xNs, itNewt] = newton(f, fprimo, 3.5, 1.0E-6, 1.0E-5, 200)
+{Unrecognized function or variable 'f'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('@(x)(-f(x))')" style="font-weight:bold">@(x)(-f(x))</a>
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newton', '/Users/tobiasacchetto/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_boh/newton.m', 16)" style="font-weight:bold">newton</a> (<a href="matlab: opentoline('/Users/tobiasacchetto/Documents/GitHub/Numerical_Analysis/MATLAB/Lezione_boh/newton.m',16,0)">line 16</a>)
+    fpx = feval(fpname, x);
+} 
+f1primo = @(x)(-f(x) + 6*cos(2*x -4))
+
+f1primo =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(-f(x)+6*cos(2*x-4))
+
+[xNs, itNewt] = newton(f1, f1primo, 3.5, 1.0E-6, 1.0E-5, 200)
+{Unrecognized function or variable 'f1'.
+} 
+f1 = @(x)(f(x)+3*sin(2*x-4))
+
+f1 =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(f(x)+3*sin(2*x-4))
+
+[xNs, itNewt] = newton(f1, f1primo, 3.5, 1.0E-6, 1.0E-5, 200)
+
+xNs =
+
+    5.6764
+
+
+itNewt =
+
+    21
+
+diary
+diary
