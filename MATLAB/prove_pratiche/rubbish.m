@@ -1,2 +1,17 @@
-A = [1/3, 0, 0.5, -1; 0, 3, 0.25, 0; 0.5, 0, 2, 0; 1, 0, -1, 1/3]; 
-b = [0, -1/3, 1, 0.25]';
+close all; clear all; clc;
+
+% Definisci un vettore per l'asse x
+x = linspace(0, 10, 100); % Genera 100 punti equidistanti da 0 a 10
+
+% Definisci u n vettore per l'asse y (ad esempio, x * 2)
+y = x.^2;
+
+% Traccia il grafico
+plot(x, y);
+hold on
+y = x.^2.*reallog(x);
+plot(x, y)
+xlabel('Asse X');
+ylabel('Asse Y');
+title('Grafico x * y');
+
